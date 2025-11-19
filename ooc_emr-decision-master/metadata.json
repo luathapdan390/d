@@ -1,0 +1,5 @@
+{
+  "name": "OOC/EMR Decision Master",
+  "description": "A structured decision-making tool based on Tony Robbins' OOC/EMR method, enhanced with Gemini AI for brainstorming and analysis.",
+  "requestFramePermissions": []
+}
